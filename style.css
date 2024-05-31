@@ -1,0 +1,14 @@
+table {
+  font-size:20px;
+  /*border: size, type, color*/
+  border: 3px solid black;
+  /*top,right,left,bottom*/
+  padding: 5px;
+  border-radius:15%;
+}
+td {
+  padding-right:30px;
+}
+table{
+  background-color:#dbdbdb;
+}
